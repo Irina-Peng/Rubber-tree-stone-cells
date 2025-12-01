@@ -18,7 +18,7 @@ Download the dataset and place it in the 'data/' folder.
 
 Use the provided Python script to train or test the model.
 
-For any questions, or if you need the complete dataset, please feel free to contact me via email at [Your Contact Information]. I am more than happy to provide the additional images upon request.
+For any questions, or if you need the complete dataset, please feel free to contact me via email at 20232322@csuft.edu.cn. I am more than happy to provide the additional images upon request.
 
 License
 
